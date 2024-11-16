@@ -10,7 +10,7 @@ Estou fazendo a transição de uma carreira em gestão da qualidade na química 
 
 ## 💼 Minhas habilidades incluem:
 - Comunicação eficaz e trabalho em equipe
-- Criação de algoritmos e lógica de programação
+
 
 
 ## 🚀 Objetivos:
