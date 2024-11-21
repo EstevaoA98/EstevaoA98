@@ -5,8 +5,11 @@ Estou fazendo a transição de uma carreira em gestão da qualidade na química 
 
 ## 🌱 Atualmente, estou aprendendo:
 - C 
-- Java
+- HTML
+- CSS
+- NODE.Js
 - JavaScript
+- Java
 
 ## 💼 Minhas habilidades incluem:
 - Comunicação eficaz e trabalho em equipe
