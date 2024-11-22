@@ -17,7 +17,7 @@ Estou fazendo a transição de uma carreira em química para o desenvolvimento, 
 
 
 ## 🚀 Objetivos:
-Estou em busca de oportunidades de estágio para ganhar experiência prática em desenvolvimento e contribuir para projetos inovadores.
+Estou em busca de oportunidades de estágio para ganhar experiência prática em desenvolvimento e contribuir .
 
 ## 📫 Como me contatar:
 - [LinkedIn]https://www.linkedin.com/in/estevaomiranda/
