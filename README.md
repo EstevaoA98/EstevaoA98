@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Estevão
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma paixão por tecnologia e programação.
-Estou fazendo a transição de uma carreira em gestão da qualidade na química para o desenvolvimento de software, com foco em desenvolvimento backend e garantia de qualidade.
+Estou fazendo a transição de uma carreira em química para o desenvolvimento, com foco em desenvolvimento backend e garantia de qualidade.
 
 ## 🌱 Atualmente, estou aprendendo:
 - C 
