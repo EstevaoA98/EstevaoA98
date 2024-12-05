@@ -4,7 +4,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma paixão po
 Estou fazendo a transição de uma carreira em química para o desenvolvimento, com foco em desenvolvimento backend e garantia de qualidade.
 
 ## Atualmente, estou aprendendo:
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
           
 
 ## Objetivos:
