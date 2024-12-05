@@ -11,7 +11,7 @@ Estou em busca de oportunidades de emprego/estágio para contribuir e ganhar exp
 Como me contatar:
  <div>
 <a href= "https://www.linkedin.com/in/estevaomiranda/" target="_blank"><img aling= "center"alt=Estevao-linkdi" height= "40" width="40" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"></a>
-<a href= "malito:estevao.a98@gmail.com" target="_blank"><img aling= "center"alt=Estevao-gmail" height= "40" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"></a>
+<a href= "mailto:estevao.a98@gmail.com" target="_blank"><img aling= "center"alt=Estevao-gmail" height= "40" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"></a>
  </div>
  
 ##
