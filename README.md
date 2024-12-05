@@ -4,17 +4,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com uma paixão po
 Estou fazendo a transição de uma carreira em química para o desenvolvimento, com foco em desenvolvimento backend e garantia de qualidade.
 
 ## Atualmente, estou aprendendo:
-- C 
-- HTML
-- CSS
-- NODE.Js
-- JavaScript
-- Java
-
-## Minhas habilidades incluem:
-- Comunicação eficaz e trabalho em equipe
-
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 ## Objetivos:
 Estou em busca de oportunidades de estágio para contribuir e ganhar experiência na prática.
