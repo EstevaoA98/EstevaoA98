@@ -25,8 +25,6 @@ Tecnológias e ferramentas;
  <img aling= "center"alt=Estevao-py" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
  <img aling= "center"alt=Estevao-MYSQL" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
  <img aling= "center"alt=Estevao-git" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img aling= "center"alt=Estevao-Node" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- <img aling= "center"alt=Estevao-JS" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
 
           
             
