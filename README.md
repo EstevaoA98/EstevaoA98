@@ -27,7 +27,7 @@ Tecnológias e ferramentas;
   <img aling= "center"alt=Estevao-CSS3" height= "40" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
   <img aling= "center"alt=Estevao-JS" height= "40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
  <img aling= "center"alt=Estevao-java" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
- <img aling= "center"alt=Estevao-py" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
+   
 
 
           
