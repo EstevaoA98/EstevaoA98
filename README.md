@@ -1,20 +1,15 @@
 
-Olá, eu sou Estevão 
+Olá, eu sou Estevão !
 
-Sou Estevão Miranda, RT Químico em transição para a área de tecnologia e estudante de Análise e Desenvolvimento de Sistemas, com foco em backend e banco de dados. 
+Sou Estevão Miranda, RT Químico em transição para a área de tecnologia e estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend. 
 Busco transformar ideias em soluções práticas e impactantes, unindo minha experiência em qualidade à criação de aplicações funcionais. 
 
 ## 
+
 Objetivos:
 Estou em busca de oportunidades de emprego/estágio para contribuir e ganhar experiência na prática.
+
 ## 
-Como me contatar:
-<div>
-<a href= "https://www.linkedin.com/in/estevaomiranda/" target="_blank"><img aling= "center"alt=Estevao-linkdi" height= "40" width="40" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank" rel="external"></a>
-<a href= "mailto:estevao.a98@gmail.com" target="_blank"><img aling= "center"alt=Estevao-gmail" height= "40" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" rel="external"></a>
- </div>
- 
-##
 
 Tecnológias e ferramentas;
  <div>
@@ -30,10 +25,22 @@ Tecnológias e ferramentas;
   </div>
  
 ##
+
+Como me contatar:
 <div>
-<img aling= "center"alt=Estevao-ide2" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img aling= "center"alt=Estevao-ide" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-</div>        
+<a href= "https://www.linkedin.com/in/estevaomiranda/" target="_blank"><img aling= "center"alt=Estevao-linkdi" height= "40" width="40" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank" rel="external"></a>
+<a href= "mailto:estevao.a98@gmail.com" target="_blank"><img aling= "center"alt=Estevao-gmail" height= "40" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" rel="external"></a>
+ </div>
+ 
+##
+
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoA98&layout=compact&theme=discord_old_blurple" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevaoA98&hide=issues&show_icons=true&theme=discord_old_blurple" />
+</div>
+
+
 
 
 
