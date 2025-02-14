@@ -21,7 +21,6 @@ Tecnológias e ferramentas em constante aprendizado:
   <img aling= "center"alt=Estevao-git" height= "40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img aling= "center"alt=Estevao-HTML5" height= "40" width="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" />
   <img aling= "center"alt=Estevao-CSS3" height= "40" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
-  <img aling= "center"alt=Estevao-JS" height= "40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
   </div>
  
 ##
