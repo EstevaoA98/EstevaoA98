@@ -1,9 +1,9 @@
 
 Eu sou Estevão !
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend.
+Estudante de engenahria de software em transição de carreira com foco em Backend.
 <br>
-Buscando aprendizado todos os dias!
+Estudo diariamente para adquirir novos conhecimentos e aprimorar minhas habilidade
 
 
 <div align="center">
