@@ -26,12 +26,4 @@ Tecnológias e ferramentas em constante aprendizado:
 ##
 
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevaoA98&hide=issues&show_icons=true&hide_border=true&theme=transparent" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoA98&layout=compact&hide_border=true&theme=transparent" /> 
-</div>
-
-
-
-
 
